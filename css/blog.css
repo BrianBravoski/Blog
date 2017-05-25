@@ -1,0 +1,21 @@
+body{
+  background:linear-gradient(#afa, #6f6);
+
+}
+.blog{
+  float: left;
+  background-color: red;
+  display: block;
+  width: 500px;
+  font-size: 30px;
+}
+.mantra{
+  background-color: blue;
+  float: right;
+  width: 400px;
+  font-size: 30px;
+}
+img{
+  width: 400px;
+  height: 300px;
+}
